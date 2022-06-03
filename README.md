@@ -6,7 +6,7 @@
 
 ### Application Deployment
 
-https://mvc-tech-blog.herokuapp.com/
+https://sheltered-springs-67332.herokuapp.com/
 
 ### Application Screenshot
 
