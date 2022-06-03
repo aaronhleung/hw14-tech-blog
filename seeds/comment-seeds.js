@@ -9,7 +9,7 @@ const commentData = [
     {
         user_id: 4,
         post_id: 4,
-        comment_text: "heh, not bad, kid."
+        comment_text: "crypto has 'died' like 6 times in the past year bud"
     },
     {
         user_id: 1,
@@ -19,7 +19,7 @@ const commentData = [
     {
         user_id: 3,
         post_id: 5,
-        comment_text: "This looks awesome!"
+        comment_text: "tl;dr"
     },
     {
         user_id: 3,
@@ -29,7 +29,7 @@ const commentData = [
     {
         user_id: 3,
         post_id: 4,
-        comment_text: "keep up the good work!"
+        comment_text: "why bother posting this?"
     },
     {
         user_id: 5,
